@@ -1,0 +1,2 @@
+learning git
+and variou configurations of the git
